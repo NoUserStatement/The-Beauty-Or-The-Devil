@@ -1,8 +1,9 @@
 import random
 onesty=bool(random.getrandbits(1)) 
 if(onesty==True):
-  print ('sono bello')
-  print ('e favoloso')
+# Replace the text inside the parentheses
+  print ('I'm beautiful')
+  print ('and helpful')
 else:
-  print('sono brutto')
-  print('e ho il naso storto')       
+  print('I'm ugly')
+  print('and i have a strange nose')       
