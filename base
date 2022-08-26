@@ -7,3 +7,4 @@ if(onesty==True):
 else:
   print('I'm ugly')
   print('and i have a strange nose')       
+# Enjoy
